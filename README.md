@@ -1,2 +1,2 @@
 # ShapeWarz
-counter enemy waves with your own, using your currency wisely.
+counter enemy waves with your own, using your currency wisely?
